@@ -1,4 +1,4 @@
-#Bad-Sorting-Algorithim
+# Bad-Sorting-Algorithim
 
 CS 325 – Summer 2020
 
